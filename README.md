@@ -14,4 +14,5 @@ The workflow includes some pre-parsed sample data, as I am probably not allowed 
 This is my first attempt and sharing a Knime workflow, and my first time using Github. I have no idea how this is going to work out, so go easy! If you get some value out of this offering, I'd love to hear from you. And if you use or recycle the workflow in another context, please credit me and link back to the Github page.
 
 Good luck!
+
 -Angus
